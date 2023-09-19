@@ -1,4 +1,4 @@
-# Customer-Analysis-using-Tableau
+# Customer-Analysis
 
 The detailed analysis of the Customer-Analysis through the Tableau Dashboard is in tableau file.
 
